@@ -1,6 +1,8 @@
 # bunkerDefense
 
 ###### 게임화면
+![bunkerDefense_img1](https://user-images.githubusercontent.com/76202528/102847058-f4cdc600-4454-11eb-89e9-d43d6474a923.png)
+![bunkerDefense_img2](https://user-images.githubusercontent.com/76202528/102847054-f39c9900-4454-11eb-9593-7cb58e7ed08f.png)
 
 __[작품 소개]__
 
@@ -15,3 +17,4 @@ __[주요 기능]__
 
 __[비디오 링크]__
 
+https://d0pehand.tistory.com/3
